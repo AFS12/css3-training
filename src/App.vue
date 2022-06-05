@@ -21,11 +21,11 @@
 
   a {
     font-weight: bold;
-    color: #2c3e50;
+    color: #42b983;
 
     &.router-link-exact-active {
-      color: #42b983;
-      text-decoration: none;
+      color: #42b983 !important;
+      text-decoration: none !important;
     }
   }
 }
